@@ -1,4 +1,4 @@
-# **Title**: World Electricity Data Analysis
+# **Title**: World Electricity Data Analysis  (2000-2020)
 ![WhatsApp Image 2024-08-27 at 18 42 42](https://github.com/user-attachments/assets/8a1fe8e7-6ffa-44af-a612-41fc72d5fe4d)
 
 ### **Overview**
@@ -70,7 +70,8 @@ The cleaned and processed DataFrame is saved to a CSV file as specified in file_
 **Completion**:
 A message is printed to indicate that data processing is complete and the individual CSV files have been created.
 
-**PowerBI DashBoard**
+
+### **PowerBI DashBoard**
 
 ![code 3](https://github.com/user-attachments/assets/32e29c3e-e7e2-4505-a74d-a47e1951ff94)
 
