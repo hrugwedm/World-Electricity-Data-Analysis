@@ -70,3 +70,35 @@ The cleaned and processed DataFrame is saved to a CSV file as specified in file_
 **Completion**:
 A message is printed to indicate that data processing is complete and the individual CSV files have been created.
 
+"""
+Conclusion of World Electricity Analysis (2000-2020):
+
+1. Global Electrification:
+   - Out of 216 countries analyzed, the world electrification rate stands at 80.71%.
+   - Urban areas have significantly higher access to electricity (90.03%) compared to rural areas (76.23%).
+
+2. Electricity Production by Source:
+   - There has been a declining trend in electricity generation from oil and nuclear sources over the years.
+
+3. Nuclear Energy Production:
+   - High-income countries dominate nuclear energy production, contributing 74.71% of the total.
+   - Upper-middle-income countries account for 16.83% of nuclear energy production.
+
+4. Electricity Loss:
+   - Sub-Saharan Africa experiences the highest electricity loss rate at 21.23%, indicating inefficiencies in the region's power distribution.
+
+5. Electricity Access Disparities:
+   - Significant gap in electricity access between urban and rural areas, especially in Sub-Saharan Africa, where rural access is only 28.65%.
+
+6. Least Electrified Countries:
+   - The least electrified countries are primarily located in Africa, with South Sudan having the lowest electrification rate at 3.68%.
+
+7. Geographical Insights:
+   - The world map highlights significant disparities in electricity access across different regions, with the highest access in North America and Europe and the lowest in Sub-Saharan Africa.
+
+This analysis underscores the global disparities in electricity production and access, highlighting the need for targeted efforts to improve electrification, particularly in rural areas and lower-income regions.
+"""
+
+
+
+
