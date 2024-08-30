@@ -29,6 +29,7 @@ In this project, we analyzed electricity data for approximately 216 countries us
 
 ### **Quick Summary**
 **Here's a snippet of code that demonstrates the process described, followed by an explanation**
+ ![Screenshot (160)](https://github.com/user-attachments/assets/a8a68363-5ad8-4165-bade-8ba815628390)
 
 
 **Load Metadata**:
