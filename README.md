@@ -72,6 +72,8 @@ A message is printed to indicate that data processing is complete and the indivi
 
 **PowerBI DashBoard**
 
+![code 3](https://github.com/user-attachments/assets/32e29c3e-e7e2-4505-a74d-a47e1951ff94)
+
 
 ### **Conclusion**
 
