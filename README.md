@@ -1,4 +1,5 @@
 # **Title**: World Electricity Data Analysis  (2000-2020)
+---
 ![WhatsApp Image 2024-08-27 at 18 42 42](https://github.com/user-attachments/assets/8a1fe8e7-6ffa-44af-a612-41fc72d5fe4d)
 
 ### **Overview**
@@ -106,13 +107,10 @@ This analysis underscores the global disparities in electricity production and a
 
 
 
-### **challenges faced during the project:**
 
-Here’s how you might revise the challenges faced during the project by incorporating the use of a star schema instead of normalization:
 
----
 
-**Challenges Faced During The Project**
+### **Challenges Faced During The Project**
 
 **Data Complexity:**
 
@@ -150,11 +148,6 @@ Here’s how you might revise the challenges faced during the project by incorpo
 - **Analyzing Trends:** Identifying meaningful trends and patterns in the data is difficult, especially when dealing with diverse countries with varying levels of electricity production and access.
 - **Insight Generation:** Generating actionable insights from the visualized data requires a deep understanding of the underlying patterns and potential socio-economic implications.
 
-These challenges necessitate careful planning, attention to detail, and robust problem-solving skills to ensure the project's success.
-
----
-
-Using a star schema can help simplify the process of managing data relationships and improve overall performance in reporting and analysis.
 
 
 
