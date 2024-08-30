@@ -1,5 +1,5 @@
 # **Title**: Electricity Analysis
-https://github.com/hrugwedm/Unit_3_Project/blob/main/WhatsApp%20Image%202024-08-27%20at%2018.42.42.jpeg
+![WhatsApp Image 2024-08-27 at 18 42 42](https://github.com/user-attachments/assets/c670d38e-abf5-4300-b764-6748f8243501)
 ### **Overview**
 This script processes JSON data files, transforms them into a long format, merges metadata, and saves the cleaned data to CSV files. The process includes several key steps such as data cleaning, melting, filtering, and merging.
 
