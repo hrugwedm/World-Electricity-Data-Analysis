@@ -1,4 +1,4 @@
-# **Title**: Electricity Analysis
+# **Title**: World Electricity Data Analysis
 ![WhatsApp Image 2024-08-27 at 18 42 42](https://github.com/user-attachments/assets/8a1fe8e7-6ffa-44af-a612-41fc72d5fe4d)
 
 ### **Overview**
