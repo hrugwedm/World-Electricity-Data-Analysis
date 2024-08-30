@@ -2,7 +2,7 @@
 ![WhatsApp Image 2024-08-27 at 18 42 42](https://github.com/user-attachments/assets/8a1fe8e7-6ffa-44af-a612-41fc72d5fe4d)
 
 ### **Overview**
-This script processes JSON data files, transforms them into a long format, merges metadata, and saves the cleaned data to CSV files. The process includes several key steps such as data cleaning, melting, filtering, and merging.
+In this project, we analyzed electricity data for approximately 216 countries using data provided by the client. We began by extracting the data from the client’s database, which was in JSON format. The process involved transforming the JSON files into a long format, cleaning the data, filtering, and merging it with metadata. Finally, we saved the cleaned data into CSV files and used Power BI to generate valuable insights.
 
 
 
@@ -17,19 +17,19 @@ This script processes JSON data files, transforms them into a long format, merge
 ### **Tools used** :
 
 1) Pandas library
-2) NumPy library
+2) JSON library
 3) PowerBI Tool
 
 ### **Methodology**
 
-1) **Data Acquisition**: Data is imported from the given location.
-2) **Data Conversion**: Data is in JSON format, so data is first converted into DataFrame using File Handeling.
-3) **Data Cleaning**: with the help of pandas library dataFrame is cleaned. In these duplicated values and unnecessary columns are removed, null and missing values are also removed or replace.
-4) **Data Visualisation**: after cleaning Data is load in PowerBI for making visuals and interractive Dashboard for finding key insights.
+1) **Data Acquisition**: The data was imported from the specified location.
+2) **Data Conversion**: Initially in JSON format, the data was converted into a DataFrame. It was then melted to improve analysis and understanding, and finally saved in CSV format.
+3) **Data Cleaning**: Using the Pandas library, the DataFrame was cleaned by removing duplicate values and unnecessary columns, as well as handling null and missing values.
+4) **Data Visualization**: After cleaning, the data was loaded into Power BI to create visualizations and an interactive dashboard to uncover key insights.
 
 ### **Quick Summary**
+**Here's a snippet of code that demonstrates the process described, followed by an explanation**
 
-**Steps Performed**
 
 **Load Metadata**:
 The metadata file (Metadata.csv) is loaded into a DataFrame. This file contains additional information about countries, including Region and IncomeGroup.
