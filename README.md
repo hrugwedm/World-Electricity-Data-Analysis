@@ -42,8 +42,6 @@ The metadata file (Metadata.csv) is loaded into a DataFrame. This file contains 
 **Define File Mapping**:
 A dictionary file_info maps each JSON file to its corresponding new column name and CSV output file name.
 
-**Process Each JSON File**:
-
 **Load JSON Data**:
 Each JSON file is read and converted into a DataFrame.
 
@@ -72,7 +70,3 @@ The cleaned and processed DataFrame is saved to a CSV file as specified in file_
 **Completion**:
 A message is printed to indicate that data processing is complete and the individual CSV files have been created.
 
-**Notes**
-Ensure that the JSON files are formatted correctly and the columns match the expected names.
-The Metadata.csv file should have columns Country_Code, Region, and IncomeGroup for successful merging.
-The script handles null values and ensures only relevant years and data are included in the final CSV files.
