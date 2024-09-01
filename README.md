@@ -80,7 +80,7 @@ A message is printed to indicate that data processing is complete and the indivi
 
 ### **PowerBI DashBoard**
 ---
-![newcode](https://github.com/user-attachments/assets/fd9488b3-29ec-4ad2-8fb1-31d76a6cbc20)
+![World_Electricity_Analysis_Dashboard](https://github.com/user-attachments/assets/eb8ba28f-38a2-49ac-8d92-f1dcfae308ed)
 
 
 
